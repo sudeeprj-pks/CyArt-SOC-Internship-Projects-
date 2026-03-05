@@ -1,0 +1,30 @@
+# Nmap 7.98 scan initiated Tue Mar  3 03:27:38 2026 as: /usr/lib/nmap/nmap -sT -oN tcp_scan.txt 192.168.100.20
+Nmap scan report for 192.168.100.20
+Host is up (0.0075s latency).
+Not shown: 978 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8180/tcp open  unknown
+MAC Address: 08:00:27:09:6B:95 (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Tue Mar  3 03:27:38 2026 -- 1 IP address (1 host up) scanned in 0.19 seconds

@@ -1,0 +1,31 @@
+Automated Nmap Scan Report
+Timestamp: 2026-03-03 05:53:47.636085
+Target: 192.168.100.20
+
+Host: 192.168.100.20
+Open Ports:
+Port: 21 | Service: ftp | Version: 2.3.4
+Port: 22 | Service: ssh | Version: 4.7p1 Debian 8ubuntu1
+Port: 23 | Service: telnet | Version: 
+Port: 25 | Service: smtp | Version: 
+Port: 53 | Service: domain | Version: 9.4.2
+Port: 80 | Service: http | Version: 2.2.8
+Port: 111 | Service: rpcbind | Version: 2
+Port: 139 | Service: netbios-ssn | Version: 3.X - 4.X
+Port: 445 | Service: netbios-ssn | Version: 3.X - 4.X
+Port: 512 | Service: exec | Version: 
+Port: 513 | Service: login | Version: 
+Port: 514 | Service: shell | Version: 
+Port: 1099 | Service: java-rmi | Version: 
+Port: 1524 | Service: bindshell | Version: 
+Port: 2049 | Service: nfs | Version: 2-4
+Port: 2121 | Service: ftp | Version: 1.3.1
+Port: 3306 | Service: mysql | Version: 5.0.51a-3ubuntu5
+Port: 5432 | Service: postgresql | Version: 8.3.0 - 8.3.7
+Port: 5900 | Service: vnc | Version: 
+Port: 6000 | Service: X11 | Version: 
+Port: 6667 | Service: irc | Version: 
+Port: 8009 | Service: ajp13 | Version: 
+Port: 8180 | Service: http | Version: 1.1
+
+Scan Completed Successfully.
